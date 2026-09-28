@@ -1197,3 +1197,5 @@ button,
   background: rgba(169, 180, 255, .18);
   border-color: rgba(169, 180, 255, .48);
 }
+:root[data-theme="light"] #home-panel{background:radial-gradient(ellipse at 5% 80%,rgba(183,139,255,.28),transparent 45%),linear-gradient(110deg,#efe5ff 0%,#faf7ff 58%,#fff 100%)}
+:root[data-theme="light"] .home-actions .action-btn{background:radial-gradient(ellipse at 12% 30%,rgba(183,139,255,.28),transparent 48%),linear-gradient(110deg,#efe5ff 0%,#faf7ff 58%,#fff 100%)}
